@@ -1,0 +1,5 @@
+Credentials cache: API:57340
+        Principal: andhuang@42.US.ORG
+
+  Issued                Expires               Principal
+Jul  8 13:31:36 2019  Jul  8 23:31:36 2019  krbtgt/42.US.ORG@42.US.ORG
