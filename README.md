@@ -1,4 +1,4 @@
-# 42-piscene
+# 42-piscine
 
 Admissions Bootcamp assignments for several weeks 
 
